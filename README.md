@@ -19,6 +19,7 @@ Naive Bayes,
 Support Vector Machine (SVM),
 Decision Tree,
 Random Forest
+
 Model Performance:
 Random Forest achieved the best accuracy of 93.8%.
 Interactive Prediction App: Deployed via Streamlit to allow users to input financial data and get instant bankruptcy predictions.
