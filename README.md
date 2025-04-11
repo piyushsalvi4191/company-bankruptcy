@@ -7,8 +7,11 @@ This repository contains a machine learning solution to predict the likelihood o
 
 Business Objectives:
 Minimize financial risk for banks and institutions by identifying potential bankruptcies.
+
 Enable proactive credit and investment decisions based on company financial health.
+
 Provide a predictive tool using historical financial data to flag high-risk entities.
+
 Empower stakeholders with insights for smarter risk management and loan distribution.
 
 Key Features:
